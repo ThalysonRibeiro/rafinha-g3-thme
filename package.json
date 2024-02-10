@@ -1,0 +1,21 @@
+{
+  "name": "rafinha-g3-theme",
+  "displayName": "Rafinha-G3-Theme",
+  "description": "O tema de Rafinha para VSCODE",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rafinha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rafinha-color-theme.json"
+      }
+    ]
+  }
+}
